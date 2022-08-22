@@ -101,4 +101,4 @@ const Pie1 = new Chart(cxc3, {
         indexAxis: 'y',
         resposive: true
     }
-});
+})
