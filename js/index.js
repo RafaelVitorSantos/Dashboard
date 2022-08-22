@@ -1,3 +1,5 @@
+import 'chartjs-plugin-style';
+
 const cxc1 = document.getElementById('horizontalBar1').getContext('2d')
 const HorizontalBar1 = new Chart(cxc1, {
     type: 'bar',
