@@ -1,4 +1,4 @@
-const { Chart } = require("chart.js");
+const { Chart } = require("node_modules/chart.js/dist/chart.js");
 
 const cxc1 = document.getElementById('horizontalBar1').getContext('2d')
 const HorizontalBar1 = new Chart(cxc1, {
